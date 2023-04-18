@@ -1,0 +1,15 @@
+{
+  "name": "pluginsellbot",
+  "version": "1.0.0",
+  "description": "Main bot for the PluginSell Discord server. As well as a auth/lisence bot for it",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "[EggZackley, https://youtube.com/c/EggZackley]",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "quick.db": "^9.1.6"
+  }
+}
